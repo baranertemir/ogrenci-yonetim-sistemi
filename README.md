@@ -1,2 +1,1 @@
-# ogrenci-yonetim-sistemi
-Öğrenci Yönetim Sistemi Projesi
+# Öğrenci Yönetim Sistemi Projesi
